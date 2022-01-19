@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/admin-service/admin-service.iml" filepath="$PROJECT_DIR$/admin-service/admin-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-gateway/cloud-gateway.iml" filepath="$PROJECT_DIR$/cloud-gateway/cloud-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-service/config-service.iml" filepath="$PROJECT_DIR$/config-service/config-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/emprunt-service/emprunt-service.iml" filepath="$PROJECT_DIR$/emprunt-service/emprunt-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/etudiant-service/etudiant-service.iml" filepath="$PROJECT_DIR$/etudiant-service/etudiant-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/livre-service/livre-service.iml" filepath="$PROJECT_DIR$/livre-service/livre-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/projet.iml" filepath="$PROJECT_DIR$/.idea/projet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-registry/service-registry.iml" filepath="$PROJECT_DIR$/service-registry/service-registry.iml" />
+    </modules>
+  </component>
+</project>
